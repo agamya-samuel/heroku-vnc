@@ -14,6 +14,7 @@ RUN set -ex; \
         xterm \
         sudo \
 	    firefox \
+	    chromium-browser \
         bash \
         net-tools \
         novnc \
